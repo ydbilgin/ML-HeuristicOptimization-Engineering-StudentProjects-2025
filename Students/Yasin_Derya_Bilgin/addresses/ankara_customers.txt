@@ -1,0 +1,50 @@
+Atatürk Bulvarı, Çankaya, Ankara, Türkiye
+Tunalı Hilmi Caddesi, Çankaya, Ankara, Türkiye
+Arjantin Caddesi, Çankaya, Ankara, Türkiye
+Cinnah Caddesi, Çankaya, Ankara, Türkiye
+Kennedy Caddesi, Çankaya, Ankara, Türkiye
+Bilkent Bulvarı, Çankaya, Ankara, Türkiye
+Eskişehir Yolu, Çankaya, Ankara, Türkiye
+Konya Yolu, Çankaya, Ankara, Türkiye
+Samsun Yolu, Mamak, Ankara, Türkiye
+İstanbul Yolu, Yenimahalle, Ankara, Türkiye
+Ayaş Yolu, Etimesgut, Ankara, Türkiye
+Bağdat Caddesi, Yenimahalle, Ankara, Türkiye
+İvedik Caddesi, Yenimahalle, Ankara, Türkiye
+Vatan Caddesi, Yenimahalle, Ankara, Türkiye
+Şehit Ömer Halisdemir Bulvarı, Keçiören, Ankara, Türkiye
+Fatih Caddesi, Keçiören, Ankara, Türkiye
+Kızlarpınarı Caddesi, Keçiören, Ankara, Türkiye
+Etlik Caddesi, Keçiören, Ankara, Türkiye
+Sanatoryum Caddesi, Keçiören, Ankara, Türkiye
+Turan Güneş Bulvarı, Çankaya, Ankara, Türkiye
+Dikmen Caddesi, Çankaya, Ankara, Türkiye
+Hoşdere Caddesi, Çankaya, Ankara, Türkiye
+Simon Bolivar Caddesi, Çankaya, Ankara, Türkiye
+Filistin Caddesi, Çankaya, Ankara, Türkiye
+Nenehatun Caddesi, Çankaya, Ankara, Türkiye
+Reşit Galip Caddesi, Çankaya, Ankara, Türkiye
+Ziya Gökalp Caddesi, Çankaya, Ankara, Türkiye
+Meşrutiyet Caddesi, Çankaya, Ankara, Türkiye
+Mithatpaşa Caddesi, Çankaya, Ankara, Türkiye
+Necatibey Caddesi, Çankaya, Ankara, Türkiye
+Gazi Mustafa Kemal Bulvarı, Çankaya, Ankara, Türkiye
+Anadolu Meydanı, Çankaya, Ankara, Türkiye
+Bahçelievler 7. Cadde, Çankaya, Ankara, Türkiye
+Söğütözü Caddesi, Çankaya, Ankara, Türkiye
+Muhsin Yazıcıoğlu Caddesi, Çankaya, Ankara, Türkiye
+Yaşam Caddesi, Yenimahalle, Ankara, Türkiye
+Vatan Caddesi, Yenimahalle, Ankara, Türkiye
+Ragıp Tüzün Caddesi, Yenimahalle, Ankara, Türkiye
+Silahtar Caddesi, Yenimahalle, Ankara, Türkiye
+Yozgat Bulvarı, Keçiören, Ankara, Türkiye
+Basınevleri Mahallesi, Keçiören, Ankara, Türkiye
+Kuşcağız Mahallesi, Keçiören, Ankara, Türkiye
+Ufuktepe Mahallesi, Keçiören, Ankara, Türkiye
+Bağlum Bulvarı, Keçiören, Ankara, Türkiye
+Natoyolu Caddesi, Mamak, Ankara, Türkiye
+Tıp Fakültesi Caddesi, Mamak, Ankara, Türkiye
+Plevne Caddesi, Mamak, Ankara, Türkiye
+Boğaziçi Mahallesi, Mamak, Ankara, Türkiye
+Karapürçek Mahallesi, Altındağ, Ankara, Türkiye
+Siteler, Altındağ, Ankara, Türkiye

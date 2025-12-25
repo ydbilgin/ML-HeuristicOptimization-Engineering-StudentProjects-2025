@@ -1,0 +1,6 @@
+DEPOT	2	Avcilar Cumhuriyet Meydani, Avcilar, Istanbul, Turkiye
+CUSTOMER	3	Gumusuyu Mahallesi, Beyoglu, Istanbul, Turkiye
+CUSTOMER	19	Gultepe Mahallesi, Sisli, Istanbul, Turkiye
+CUSTOMER	21	Besiktas Carsi Mahallesi, Besiktas, Istanbul, Turkiye
+CUSTOMER	35	Nurtep Mahallesi, Kagithane, Istanbul, Turkiye
+CUSTOMER	47	Sakagzi Mahallesi, Eyupsultan, Istanbul, Turkiye

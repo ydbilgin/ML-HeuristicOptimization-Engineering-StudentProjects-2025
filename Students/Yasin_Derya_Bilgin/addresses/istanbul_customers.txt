@@ -1,0 +1,100 @@
+Asmali Mescit Mahallesi, Beyoglu, Istanbul, Turkiye
+Cihangir Mahallesi, Beyoglu, Istanbul, Turkiye
+Gumusuyu Mahallesi, Beyoglu, Istanbul, Turkiye
+Piyalepasa Mahallesi, Beyoglu, Istanbul, Turkiye
+Kalyoncu Kullugu Mahallesi, Beyoglu, Istanbul, Turkiye
+Haciahmet Mahallesi, Beyoglu, Istanbul, Turkiye
+Karakoy Mahallesi, Beyoglu, Istanbul, Turkiye
+Firuzaga Mahallesi, Beyoglu, Istanbul, Turkiye
+Galata Mahallesi, Beyoglu, Istanbul, Turkiye
+Kulaksiz Mahallesi, Beyoglu, Istanbul, Turkiye
+Tesvikiye Mahallesi, Sisli, Istanbul, Turkiye
+Harbiye Mahallesi, Sisli, Istanbul, Turkiye
+Mecidiyekoy Mahallesi, Sisli, Istanbul, Turkiye
+Halaskargazi Mahallesi, Sisli, Istanbul, Turkiye
+Okmeydani Mahallesi, Sisli, Istanbul, Turkiye
+19 Mayis Mahallesi, Sisli, Istanbul, Turkiye
+Ergenekon Mahallesi, Sisli, Istanbul, Turkiye
+Mahmut Sevket Pasa Mahallesi, Sisli, Istanbul, Turkiye
+Gultepe Mahallesi, Sisli, Istanbul, Turkiye
+Inonu Mahallesi, Sisli, Istanbul, Turkiye
+Besiktas Carsi Mahallesi, Besiktas, Istanbul, Turkiye
+Etiler Mahallesi, Besiktas, Istanbul, Turkiye
+Levent Mahallesi, Besiktas, Istanbul, Turkiye
+Bebek Mahallesi, Besiktas, Istanbul, Turkiye
+Arnavutkoy Mahallesi, Besiktas, Istanbul, Turkiye
+Akat Mahallesi, Besiktas, Istanbul, Turkiye
+Ortakoy Mahallesi, Besiktas, Istanbul, Turkiye
+Ulus Mahallesi, Besiktas, Istanbul, Turkiye
+Yildiz Mahallesi, Besiktas, Istanbul, Turkiye
+Sinanpasa Mahallesi, Besiktas, Istanbul, Turkiye
+Merkez Mahallesi, Kagithane, Istanbul, Turkiye
+Hamidiye Mahallesi, Kagithane, Istanbul, Turkiye
+Seyrantepe Mahallesi, Kagithane, Istanbul, Turkiye
+Celiktepe Mahallesi, Kagithane, Istanbul, Turkiye
+Nurtep Mahallesi, Kagithane, Istanbul, Turkiye
+Gursel Mahallesi, Kagithane, Istanbul, Turkiye
+Ortabayir Mahallesi, Kagithane, Istanbul, Turkiye
+Sanayi Mahallesi, Kagithane, Istanbul, Turkiye
+Yesilce Mahallesi, Kagithane, Istanbul, Turkiye
+Talatpasa Mahallesi, Kagithane, Istanbul, Turkiye
+Yesilpinar Mahallesi, Eyupsultan, Istanbul, Turkiye
+Alibeykoy Mahallesi, Eyupsultan, Istanbul, Turkiye
+Topcular Mahallesi, Eyupsultan, Istanbul, Turkiye
+Defterdar Mahallesi, Eyupsultan, Istanbul, Turkiye
+Islambey Mahallesi, Eyupsultan, Istanbul, Turkiye
+Nisanca Mahallesi, Eyupsultan, Istanbul, Turkiye
+Sakagzi Mahallesi, Eyupsultan, Istanbul, Turkiye
+Rami Yeni Mahallesi, Eyupsultan, Istanbul, Turkiye
+Karadolap Mahallesi, Eyupsultan, Istanbul, Turkiye
+Guvenlik Mahallesi, Eyupsultan, Istanbul, Turkiye
+Sultanahmet Mahallesi, Fatih, Istanbul, Turkiye
+Aksaray Mahallesi, Fatih, Istanbul, Turkiye
+Eminonu Mahallesi, Fatih, Istanbul, Turkiye
+Haseki Sultan Mahallesi, Fatih, Istanbul, Turkiye
+Balat Mahallesi, Fatih, Istanbul, Turkiye
+Capa Mahallesi, Fatih, Istanbul, Turkiye
+Fener Mahallesi, Fatih, Istanbul, Turkiye
+Kocamustafapasa Mahallesi, Fatih, Istanbul, Turkiye
+Karagumruk Mahallesi, Fatih, Istanbul, Turkiye
+Molla Gurani Mahallesi, Fatih, Istanbul, Turkiye
+Topkapi Mahallesi, Zeytinburnu, Istanbul, Turkiye
+Merkezefendi Mahallesi, Zeytinburnu, Istanbul, Turkiye
+Yesiltepe Mahallesi, Zeytinburnu, Istanbul, Turkiye
+Veliefendi Mahallesi, Zeytinburnu, Istanbul, Turkiye
+Nuripasa Mahallesi, Zeytinburnu, Istanbul, Turkiye
+Kazlicesme Mahallesi, Zeytinburnu, Istanbul, Turkiye
+Maltepe Mahallesi, Zeytinburnu, Istanbul, Turkiye
+Bestelsiz Mahallesi, Zeytinburnu, Istanbul, Turkiye
+Telsiz Mahallesi, Zeytinburnu, Istanbul, Turkiye
+Gokalp Mahallesi, Zeytinburnu, Istanbul, Turkiye
+Sakizagaci Mahallesi, Bakirkoy, Istanbul, Turkiye
+Kartaltepe Mahallesi, Bakirkoy, Istanbul, Turkiye
+Osmaniye Mahallesi, Bakirkoy, Istanbul, Turkiye
+Yesilkoy Mahallesi, Bakirkoy, Istanbul, Turkiye
+Florya Mahallesi, Bakirkoy, Istanbul, Turkiye
+Atakoy Mahallesi, Bakirkoy, Istanbul, Turkiye
+Zuhuratbaba Mahallesi, Bakirkoy, Istanbul, Turkiye
+Basinkoy Mahallesi, Bakirkoy, Istanbul, Turkiye
+Cevizlik Mahallesi, Bakirkoy, Istanbul, Turkiye
+Sirinevler Mahallesi, Bahcelievler, Istanbul, Turkiye
+Kocasinan Merkez Mahallesi, Bahcelievler, Istanbul, Turkiye
+Yenibosna Merkez Mahallesi, Bahcelievler, Istanbul, Turkiye
+Soganli Mahallesi, Bahcelievler, Istanbul, Turkiye
+Hurriyet Mahallesi, Bahcelievler, Istanbul, Turkiye
+Bahcelievler Mahallesi, Bahcelievler, Istanbul, Turkiye
+Cumhuriyet Mahallesi, Bahcelievler, Istanbul, Turkiye
+Fevzi Cakmak Mahallesi, Bahcelievler, Istanbul, Turkiye
+Mahmutbey Mahallesi, Bahcelievler, Istanbul, Turkiye
+Cobancesme Mahallesi, Bahcelievler, Istanbul, Turkiye
+Sefakoy Mahallesi, Kucukcekmece, Istanbul, Turkiye
+Atakent Mahallesi, Kucukcekmece, Istanbul, Turkiye
+Halkali Merkez Mahallesi, Kucukcekmece, Istanbul, Turkiye
+Yarimburgaz Mahallesi, Kucukcekmece, Istanbul, Turkiye
+Cennet Mahallesi, Kucukcekmece, Istanbul, Turkiye
+Fatih Mahallesi, Kucukcekmece, Istanbul, Turkiye
+Gultepe Mahallesi, Kucukcekmece, Istanbul, Turkiye
+Inonu Mahallesi, Kucukcekmece, Istanbul, Turkiye
+Mehmet Akif Mahallesi, Kucukcekmece, Istanbul, Turkiye
+Tevfikbey Mahallesi, Kucukcekmece, Istanbul, Turkiye
+Ambarli Mahallesi, Avcilar, Istanbul, Turkiye
