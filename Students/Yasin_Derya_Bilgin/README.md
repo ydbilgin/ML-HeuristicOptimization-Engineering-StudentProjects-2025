@@ -9,7 +9,7 @@ Temel olarak iki problemi çözüyoruz:
 1. **Adresleri Haritaya İşleme (Geocoding):** Elimizdeki açık adresleri (Örn: "Kızılay Meydanı, Ankara") bilgisayarın anlayacağı koordinatlara (Enlem: 39.92, Boylam: 32.85) çeviriyoruz.
 2. **Optimizasyon (Genetik Algoritma):** Binlerce olası rota arasından en iyisini bulmak için biyolojideki evrim teorisinden esinlenen "Genetik Algoritma" yöntemini kullanıyoruz.
 
-## Temel Terimler (Basitçe)
+## Temel Terimler
 
 Eğer bu kelimeleri ilk defa duyuyorsanız, işte anlamları:
 
@@ -63,3 +63,4 @@ Program çalışmayı bitirdiğinde `output` klasörüne bakın:
 - **output/**: Sizin çalıştırdığınızda oluşacak sonuçlar.
 
 Sorularınız olursa bana ulaşabilirsiniz. İyi çalışmalar!
+
